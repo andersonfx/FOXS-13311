@@ -1,0 +1,11 @@
+{
+  "name": "FOXS-13311",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "mongoose": "^5.2.4"
+  }
+}
